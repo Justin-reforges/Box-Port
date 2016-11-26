@@ -38,7 +38,7 @@ Adafruit_NeoPixel strip = Adafruit_NeoPixel(60, LED_STRIP_PIN, NEO_GRB + NEO_KHZ
 int value = -1;
 int safe = -2;
 float input = -3;
-int delayTime = 5;
+int delayTime = 2;
 
 void setup() {
 
